@@ -1,0 +1,21 @@
+
+		p{
+			border: 1% solid black;
+			background-color: lightblue;
+			margin-right: auto;
+			margin-left: auto;
+			}
+			@media screen and (min-width: 720px){
+		p{
+			background-color: lightgreen;
+		}
+		  }
+			em{
+				font-family: serif;
+				color:green;
+			}
+			a{
+				font-size: 150%;
+				color:blue;
+			}
+			   
